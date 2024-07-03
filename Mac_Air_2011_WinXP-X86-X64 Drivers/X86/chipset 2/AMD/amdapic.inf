@@ -1,0 +1,51 @@
+;
+;---------------------------------------------
+; AmdAPIC.inf
+; AMD-813x IOAPIC Controller NULL Driver for Windows 2000/XP/Server2003
+; version 1.8.1.0
+; (C) Copyright 1999-2004  AMD, Inc.
+;---------------------------------------------
+;
+
+[Version]
+CatalogFile=amdapic.cat
+Signature="$WINDOWS NT$"
+Class=System
+ClassGuid={4D36E97D-E325-11CE-BFC1-08002BE10318}
+Provider="AMD"
+DriverVer=06/23/2004, 1.8.1.0
+
+[DestinationDirs]
+DefaultDestDir = 12        ; DIRID_DRIVERS
+
+[ControlFlags]
+ExcludeFromSelect=*
+
+[Manufacturer]
+%AMD_MFG%=AMD_SYS
+
+[AMD_SYS]
+%PCI\VEN_1022&DEV_7451.DeviceDesc%=NO_DRV,PCI\VEN_1022&DEV_7451
+%PCI\VEN_1022&DEV_7459.DeviceDesc%=NO_DRV,PCI\VEN_1022&DEV_7459
+
+[SourceDisksNames]
+
+[SourceDisksFiles]
+
+; =================== DO NOTHING SECTION ============================
+[NO_DRV]
+
+[NO_DRV.Services]
+AddService = , %SPSVCINST_ASSOCSERVICE%   ; null service install
+
+[Strings]
+AMD_MFG = "AMD"
+PCI\VEN_1022&DEV_7451.DeviceDesc = "AMD-8131™ HyperTransport™ IOAPIC Controller"
+PCI\VEN_1022&DEV_7459.DeviceDesc = "AMD-8132™ HyperTransport™ IOAPIC Controller"
+
+SystemClassName = "System devices"
+DISK_ID="AMD Installation Disk"
+
+;*******************************************
+;Handy macro substitutions (non-localizable)
+SPSVCINST_ASSOCSERVICE = 0x00000002
