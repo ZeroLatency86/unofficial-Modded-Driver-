@@ -1,0 +1,523 @@
+
+
+Broadcom 802.11 Multiband Network Adapter
+	Chip: Broadcom  BCM43224 802.11a/b/g/n
+	Detail
+		PnpID
+			VEN_14E4&DEV_4353&SUBSYS_00E9106B&REV_01
+		Vendor
+			Broadcom
+		Device
+			Broadcom 802.11 Multiband Network Adapter
+		Chip Vendor
+			Broadcom
+		Chip
+			BCM43224 802.11a/b/g/n
+Xeon E3-1200/2nd Generation Intel(R) Core(TM) Processor Family PCI Express Root Port - 0101
+	Chip: Intel  Core i7/i5/i3 PCIe Port
+	Detail
+		PnpID
+			VEN_8086&DEV_0101&SUBSYS_00000000&REV_09
+		Vendor
+			Intel
+		Device
+			Xeon E3-1200/2nd Generation Intel(R) Core(TM) Processor Family PCI Express Root Port - 0101
+		Chip Vendor
+			Intel
+		Chip
+			Core i7/i5/i3 PCIe Port
+2nd Generation Intel(R) Core(TM) Processor Family DRAM Controller - 0104
+	Chip: Intel  Core i7/i5/i3 DRAM Controller
+	Detail
+		PnpID
+			VEN_8086&DEV_0104&SUBSYS_00000000&REV_09
+		Vendor
+			Intel
+		Device
+			2nd Generation Intel(R) Core(TM) Processor Family DRAM Controller - 0104
+		Chip Vendor
+			Intel
+		Chip
+			Core i7/i5/i3 DRAM Controller
+Intel(R) HD Graphics 3000
+	Chip: Intel  Core i7/i5/i3 Integrated Graphics Controller
+	Detail
+		PnpID
+			VEN_8086&DEV_0116&SUBSYS_00EA106B&REV_09
+		Vendor
+			Intel Corporation
+		Device
+			Intel(R) HD Graphics 3000
+		Chip Vendor
+			Intel
+		Chip
+			Core i7/i5/i3 Integrated Graphics Controller
+PCI standard PCI-to-PCI bridge
+	Chip: Intel  DSL2310 Thunderbolt Controller [Eagle Ridge 2C 2011]
+	Detail
+		PnpID
+			VEN_8086&DEV_151A&SUBSYS_00000000&REV_01
+		Vendor
+			(Standard system devices)
+		Device
+			PCI standard PCI-to-PCI bridge
+		Chip Vendor
+			Intel
+		Chip
+			DSL2310 Thunderbolt Controller [Eagle Ridge 2C 2011]
+Base System Device [UNKNOWN DEVICE]
+	Chip: Intel  DSL2310 Thunderbolt Controller [Eagle Ridge 2C 2011]
+	Detail
+		PnpID
+			VEN_8086&DEV_151A&SUBSYS_11112222&REV_01
+		Vendor
+			
+		Device
+			Base System Device
+		Chip Vendor
+			Intel
+		Chip
+			DSL2310 Thunderbolt Controller [Eagle Ridge 2C 2011]
+Intel(R) 6 Series/C200 Series Chipset Family 4 port Serial ATA Storage Controller - 1C01
+	Chip: Intel  6 Series Chipset Family 4 port SATA IDE Controller
+	Detail
+		PnpID
+			VEN_8086&DEV_1C01&SUBSYS_72708086&REV_05
+		Vendor
+			Intel
+		Device
+			Intel(R) 6 Series/C200 Series Chipset Family 4 port Serial ATA Storage Controller - 1C01
+		Chip Vendor
+			Intel
+		Chip
+			6 Series Chipset Family 4 port SATA IDE Controller
+Intel(R) 6 Series/C200 Series Chipset Family PCI Express Root Port 1 - 1C10
+	Chip: Intel  6 Series Chipset Family PCIe Port 1
+	Detail
+		PnpID
+			VEN_8086&DEV_1C10&SUBSYS_00000000&REV_B5
+		Vendor
+			Intel
+		Device
+			Intel(R) 6 Series/C200 Series Chipset Family PCI Express Root Port 1 - 1C10
+		Chip Vendor
+			Intel
+		Chip
+			6 Series Chipset Family PCIe Port 1
+Intel(R) 6 Series/C200 Series Chipset Family PCI Express Root Port 2 - 1C12
+	Chip: Intel  6 Series Chipset Family PCIe Port 2
+	Detail
+		PnpID
+			VEN_8086&DEV_1C12&SUBSYS_00000000&REV_B5
+		Vendor
+			Intel
+		Device
+			Intel(R) 6 Series/C200 Series Chipset Family PCI Express Root Port 2 - 1C12
+		Chip Vendor
+			Intel
+		Chip
+			6 Series Chipset Family PCIe Port 2
+Microsoft UAA Bus Driver for High Definition Audio
+	Chip: Intel  6 Series Chipset Family High Definition Audio Controller
+	Detail
+		PnpID
+			VEN_8086&DEV_1C20&SUBSYS_72708086&REV_05
+		Vendor
+			Microsoft
+		Device
+			Microsoft UAA Bus Driver for High Definition Audio
+		Chip Vendor
+			Intel
+		Chip
+			6 Series Chipset Family High Definition Audio Controller
+Intel(R) 6 Series/C200 Series Chipset Family SMBus Controller - 1C22
+	Chip: Intel  6 Series Chipset Family SMBus Controller
+	Detail
+		PnpID
+			VEN_8086&DEV_1C22&SUBSYS_72708086&REV_05
+		Vendor
+			Intel
+		Device
+			Intel(R) 6 Series/C200 Series Chipset Family SMBus Controller - 1C22
+		Chip Vendor
+			Intel
+		Chip
+			6 Series Chipset Family SMBus Controller
+Intel(R) 6 Series/C200 Series Chipset Family USB Enhanced Host Controller - 1C26
+	Chip: Intel  6 Series Chipset Family USB EHCI Controller #1
+	Detail
+		PnpID
+			VEN_8086&DEV_1C26&SUBSYS_72708086&REV_05
+		Vendor
+			Intel
+		Device
+			Intel(R) 6 Series/C200 Series Chipset Family USB Enhanced Host Controller - 1C26
+		Chip Vendor
+			Intel
+		Chip
+			6 Series Chipset Family USB EHCI Controller #1
+Standard Universal PCI to USB Host Controller
+	Chip: Intel  6 Series Chipset Family USB UHCI Controller #1
+	Detail
+		PnpID
+			VEN_8086&DEV_1C27&SUBSYS_72708086&REV_05
+		Vendor
+			(Standard USB Host Controller)
+		Device
+			Standard Universal PCI to USB Host Controller
+		Chip Vendor
+			Intel
+		Chip
+			6 Series Chipset Family USB UHCI Controller #1
+Standard Universal PCI to USB Host Controller
+	Chip: Intel  6 Series Chipset Family USB UHCI Controller #5
+	Detail
+		PnpID
+			VEN_8086&DEV_1C2C&SUBSYS_72708086&REV_05
+		Vendor
+			(Standard USB Host Controller)
+		Device
+			Standard Universal PCI to USB Host Controller
+		Chip Vendor
+			Intel
+		Chip
+			6 Series Chipset Family USB UHCI Controller #5
+Intel(R) 6 Series/C200 Series Chipset Family USB Enhanced Host Controller - 1C2D
+	Chip: Intel  6 Series Chipset Family USB EHCI Controller #2
+	Detail
+		PnpID
+			VEN_8086&DEV_1C2D&SUBSYS_72708086&REV_05
+		Vendor
+			Intel
+		Device
+			Intel(R) 6 Series/C200 Series Chipset Family USB Enhanced Host Controller - 1C2D
+		Chip Vendor
+			Intel
+		Chip
+			6 Series Chipset Family USB EHCI Controller #2
+Intel(R) Management Engine Interface 
+	Chip: Intel  6 Series Chipset Family HECI Controller #1
+	Detail
+		PnpID
+			VEN_8086&DEV_1C3A&SUBSYS_72708086&REV_04
+		Vendor
+			Intel
+		Device
+			Intel(R) Management Engine Interface 
+		Chip Vendor
+			Intel
+		Chip
+			6 Series Chipset Family HECI Controller #1
+Intel(R) QS67 Express Chipset Family LPC Interface Controller - 1C4D
+	Chip: Intel  QS67 Chipset Family LPC Controller
+	Detail
+		PnpID
+			VEN_8086&DEV_1C4D&SUBSYS_00000000&REV_05
+		Vendor
+			Intel
+		Device
+			Intel(R) QS67 Express Chipset Family LPC Interface Controller - 1C4D
+		Chip Vendor
+			Intel
+		Chip
+			QS67 Chipset Family LPC Controller
+Standard Microsystems 2.0 Hub
+	Vendor: Standard Microsystems
+	PnpID: VID_0424&PID_2513
+	Device: 2.0 Hub
+Microsoft Basic Optical Mouse v2.0
+	Vendor: Microsoft
+	PnpID: VID_045E&PID_00CB
+	Device: Basic Optical Mouse v2.0
+Logitech Keyboard K120 for Business
+	Vendor: Logitech
+	PnpID: VID_046D&PID_C31C
+	Device: Keyboard K120 for Business
+Sony MicroVault Flash Drive
+	Vendor: Sony
+	PnpID: VID_054C&PID_0243
+	Device: MicroVault Flash Drive
+Alcor Micro JetFlash USB Disk
+	Vendor: Alcor Micro
+	PnpID: VID_058F&PID_6387
+	Device: JetFlash USB Disk
+Apple Apple Keyboard
+	Vendor: Apple
+	PnpID: VID_05AC&PID_0249
+	Device: Apple Keyboard
+Apple Bluetooth HID Keyboard
+	Vendor: Apple
+	PnpID: VID_05AC&PID_820A
+	Device: Bluetooth HID Keyboard
+Apple Bluetooth HID Mouse
+	Vendor: Apple
+	PnpID: VID_05AC&PID_820B
+	Device: Bluetooth HID Mouse
+Apple Built-in Bluetooth 2.0+EDR HCI
+	Vendor: Apple
+	PnpID: VID_05AC&PID_821F
+	Device: Built-in Bluetooth 2.0+EDR HCI
+Apple FaceTime Camera
+	Vendor: Apple
+	PnpID: VID_05AC&PID_850A
+	Device: FaceTime Camera
+Broadcom BCM2046B1 USB 2.0 Hub (part of BCM2046 Bluetooth)
+	Vendor: Broadcom
+	PnpID: VID_0A5C&PID_4500
+	Device: BCM2046B1 USB 2.0 Hub (part of BCM2046 Bluetooth)
+PNY Technologies USB Device
+	Vendor: PNY Technologies
+	PnpID: VID_154B&PID_00FF
+	Device: USB Device
+USB Root Hub
+	Vendor: Microsoft
+	PnpID: usb\root_hub
+Generic USB Hub
+	Vendor: Microsoft
+	PnpID: usb\class_09
+USB Composite Device
+	Vendor: Microsoft
+	PnpID: usb\composite
+USB Mass Storage Device
+	Vendor: Microsoft
+	PnpID: usb\class_08&subclass_06&prot_50
+ACPI Multiprocessor PC
+	Vendor: Microsoft
+	PnpID: acpiapic_mp
+Disk drive
+	Vendor: Microsoft
+	PnpID: gendisk
+Primary IDE Channel
+	Vendor: Microsoft
+	PnpID: primary_ide_channel
+Secondary IDE Channel
+	Vendor: Microsoft
+	PnpID: secondary_ide_channel
+HID Keyboard Device
+	Vendor: Microsoft
+	PnpID: hid_device_system_keyboard
+Media Control Devices
+	Vendor: Microsoft
+	PnpID: ms_mmmci
+Video Codecs
+	Vendor: Microsoft
+	PnpID: ms_mmvid
+Audio Codecs
+	Vendor: Microsoft
+	PnpID: ms_mmacm
+Legacy Video Capture Devices
+	Vendor: Microsoft
+	PnpID: ms_mmvcd
+Legacy Audio Drivers
+	Vendor: Microsoft
+	PnpID: ms_mmdrv
+Microsoft Streaming Quality Manager Proxy
+	Vendor: Microsoft
+	PnpID: sw\{ddf4358e-bb2c-11d0-a42f-00a0c9223196}
+BDA Slip De-Framer
+	Vendor: Microsoft
+	PnpID: sw\{03884cb6-e89a-4deb-b69e-8dc621686e6a}
+Microsoft Streaming Clock Proxy
+	Vendor: Microsoft
+	PnpID: sw\{97ebaacc-95bd-11d0-a3ea-00a0c9223196}
+Microsoft Streaming Service Proxy
+	Vendor: Microsoft
+	PnpID: sw\{96e080c7-143c-11d1-b40f-00a0c9223196}
+World Standard Teletext Codec
+	Vendor: Microsoft
+	PnpID: sw\{70bc06e0-5666-11d3-a184-00105aef9f33}
+Closed Caption Decoder
+	Vendor: Microsoft
+	PnpID: sw\{562370a8-f8dd-11d2-bc64-00a0c95ec22e}
+NABTS/FEC VBI Codec
+	Vendor: Microsoft
+	PnpID: sw\{07dad662-22f1-11d1-a9f4-00c04fbbde8f}
+BDA IPSink
+	Vendor: Microsoft
+	PnpID: sw\{d84d449b-62fb-4ebb-b969-5183ed3dfb51}
+Microsoft Streaming Tee/Sink-to-Sink Converter
+	Vendor: Microsoft
+	PnpID: sw\{cfd669f1-9bc2-11d0-8299-0000f822fe8a}
+Intel(R) Display Audio
+	Vendor: Intel(R) Corporation
+	PnpID: hdaudio\func_01&ven_8086&dev_2805&subsys_80860101
+Microsoft Kernel System Audio Device
+	Vendor: Microsoft
+	PnpID: sw\{a7c7a5b0-5af3-11d1-9ced-00a024bf0407}
+Microsoft Kernel DRM Audio Descrambler
+	Vendor: Microsoft
+	PnpID: sw\{eec12db6-ad9c-4168-8658-b03daef417fe}
+Microsoft Kernel Wave Audio Mixer
+	Vendor: Microsoft
+	PnpID: sw\{b7eafdc0-a680-11d0-96d8-00aa0051e51d}
+Microsoft Kernel Acoustic Echo Canceller
+	Vendor: Microsoft
+	PnpID: sw\{4245ff73-1db4-11d2-86e4-98ae20524153}
+Microsoft Kernel GS Wavetable Synthesizer
+	Vendor: Microsoft
+	PnpID: sw\{6c1b9f60-c0a9-11d0-96d8-00aa0051e51d}
+Microsoft Kernel DLS Synthesizer
+	Vendor: Microsoft
+	PnpID: sw\{8c07dd50-7a8d-11d2-8f8c-00c04fbf8fef}
+Microsoft WINMM WDM Audio Compatibility Driver
+	Vendor: Microsoft
+	PnpID: sw\{cd171de3-69e5-11d2-b56d-0000f8754380}
+Microsoft Kernel Audio Splitter
+	Vendor: Microsoft
+	PnpID: sw\{2f412ab5-ed3a-4590-ab24-b0ce2aa77d3c}
+Cirrus Logic High Definition Audio
+	Vendor: CirrusLogic
+	PnpID: hdaudio\func_01&ven_1013&dev_4206
+Plug and Play Monitor
+	Vendor: Microsoft
+	PnpID: *pnp09ff
+HID-compliant mouse
+	Vendor: Microsoft
+	PnpID: hid_device_system_mouse
+Microsoft USB Basic Optical Mouse v2.0 (IntelliPoint)
+	Vendor: Microsoft
+	PnpID: hid\vid_045e&pid_00cb
+Microsoft TV/Video Connection
+	Vendor: Microsoft
+	PnpID: sw\{48926476-2cae-4ded-a86e-73ddebed6779}
+RAS Async Adapter
+	Vendor: Microsoft
+	PnpID: sw\{eeab7790-c514-11d1-b42b-00805fc1270e}
+WAN Miniport (L2TP)
+	Vendor: Microsoft
+	PnpID: ms_l2tpminiport
+WAN Miniport (PPTP)
+	Vendor: Microsoft
+	PnpID: ms_pptpminiport
+WAN Miniport (PPPOE)
+	Vendor: Microsoft
+	PnpID: ms_pppoeminiport
+Direct Parallel
+	Vendor: Microsoft
+	PnpID: ms_ptiminiport
+WAN Miniport (IP)
+	Vendor: Microsoft
+	PnpID: ms_ndiswanip
+Packet Scheduler Miniport
+	Vendor: Microsoft
+	PnpID: ms_pschedmp
+Virtual Machine Network Services Driver
+	Vendor: Microsoft
+	PnpID: cntx_vpcnets2_mp
+Plug and Play Software Device Enumerator
+	Vendor: Microsoft
+	PnpID: root\swenum
+Microcode Update Device
+	Vendor: Microsoft
+	PnpID: root\update
+Microsoft System Management BIOS Driver
+	Vendor: Microsoft
+	PnpID: root\mssmbios
+Logical Disk Manager
+	Vendor: Microsoft
+	PnpID: root\dmio
+Volume Manager
+	Vendor: Microsoft
+	PnpID: root\ftdisk
+Microsoft ACPI-Compliant System
+	Vendor: Microsoft
+	PnpID: *pnp0c08
+Microsoft Composite Battery
+	Vendor: Microsoft
+	PnpID: composite_battery
+System board
+	Vendor: Microsoft
+	PnpID: *pnp0c01
+ACPI Power Button
+	Vendor: Microsoft
+	PnpID: *pnp0c0c
+ACPI Lid
+	Vendor: Microsoft
+	PnpID: *pnp0c0d
+ACPI Sleep Button
+	Vendor: Microsoft
+	PnpID: *pnp0c0e
+PCI bus
+	Vendor: Microsoft
+	PnpID: *pnp0a03
+ACPI Fixed Feature Button
+	Vendor: Microsoft
+	PnpID: acpi\fixedbutton
+Motherboard resources
+	Vendor: Microsoft
+	PnpID: *pnp0c02
+System timer
+	Vendor: Microsoft
+	PnpID: *pnp0100
+Intel(R) 82802 Firmware Hub Device
+	Vendor: Microsoft
+	PnpID: *int0800
+System CMOS/real time clock
+	Vendor: Microsoft
+	PnpID: *pnp0b00
+ISAPNP Read Data Port
+	Vendor: Microsoft
+	PnpID: isapnp\readdataport
+Microsoft ACPI-Compliant Embedded Controller
+	Vendor: Microsoft
+	PnpID: *pnp0c09
+Direct memory access controller
+	Vendor: Microsoft
+	PnpID: *pnp0200
+Programmable interrupt controller
+	Vendor: Microsoft
+	PnpID: *pnp0000
+Numeric data processor
+	Vendor: Microsoft
+	PnpID: *pnp0c04
+AMD-8111 High Precision Event Timer
+	Vendor: AMD
+	PnpID: *pnp0103
+Terminal Server Device Redirector
+	Vendor: Microsoft
+	PnpID: root\rdpdr
+Terminal Server Mouse Driver
+	Vendor: Microsoft
+	PnpID: root\rdp_mou
+Terminal Server Keyboard Driver
+	Vendor: Microsoft
+	PnpID: root\rdp_kbd
+Apple panel backlight
+	Vendor: Apple Inc.
+	PnpID: acpi\app0002
+Apple 5000 Series Chipset DMA Engine
+	Vendor: Apple Inc.
+	PnpID: pci\ven_8086&dev_1a38
+FaceTime HD camera
+	Vendor: Apple Inc.
+	PnpID: usb\vid_05ac&pid_8509&mi_02
+Apple trusted platform module
+	Vendor: Apple Inc.
+	PnpID: acpi\ifx0101
+Apple SMC device
+	Vendor: Apple Inc.
+	PnpID: acpi\app0001
+Intel Processor
+	Vendor: Microsoft
+	PnpID: acpi\genuineintel_-_x86
+USB Video Device
+	Vendor: Microsoft
+	PnpID: usb\class_0e
+Generic volume
+	Vendor: Microsoft
+	PnpID: storage\volume
+Microsoft AC Adapter
+	Vendor: Microsoft
+	PnpID: acpi\acpi0003
+Microsoft ACPI-Compliant Control Method Battery
+	Vendor: Microsoft
+	PnpID: acpi\pnp0c0a
+USB Human Interface Device
+	Vendor: Microsoft
+	PnpID: usb\class_03&subclass_01
+HID-compliant consumer control device
+	Vendor: Microsoft
+	PnpID: hid_device_up:000c_u:0001
+HID-compliant device
+	Vendor: ENE
+	PnpID: hid_device_up:ff00_u:0001
